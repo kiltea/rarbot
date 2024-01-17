@@ -11,7 +11,9 @@ const FILE_PATH = "./data.json";
     // const x = random.int(0,54);
     // const y = random.int(0,6);
     // const DATE = moment().subtract(1,"y").add(1,"d").add(x,"w").add(y,"d").format();
-    const DATE = moment().subtract(1,"d").format();
+    const DATE = moment().format();
+
+    console.log(DATE)
 
     const data = {
       date: DATE
