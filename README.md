@@ -1,1 +1,1 @@
-Nouveau contenu du README mis à jour automatiquement.
+Aujourd'hui je suis agréable 😎
