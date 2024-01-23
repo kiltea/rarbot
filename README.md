@@ -1,1 +1,1 @@
-Aujourd'hui je suis déterminé ❤️
+Aujourd'hui je suis inspiré 😊
